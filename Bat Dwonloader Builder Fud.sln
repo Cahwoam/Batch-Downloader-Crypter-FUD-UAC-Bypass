@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FF1AA274-E93C-47C2-9957-4A40C7F4D75C}") = "Bat Builder Fud", "Bat Builder Fud\Bat Builder Fud.vbproj", "{C1E244CB-F23E-4DCD-AAD0-6EA0CB374FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E244CB-F23E-4DCD-AAD0-6EA0CB374FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E244CB-F23E-4DCD-AAD0-6EA0CB374FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E244CB-F23E-4DCD-AAD0-6EA0CB374FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E244CB-F23E-4DCD-AAD0-6EA0CB374FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5767CB44-9216-42D3-ACF3-EBA0F9654091}
+	EndGlobalSection
+EndGlobal
